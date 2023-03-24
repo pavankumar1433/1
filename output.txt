@@ -1,0 +1,14 @@
+
+[MI Vs GT, MI Vs GL, MI Vs RR, MI Vs DC, GT Vs GL, GT Vs RR, GT Vs DC, GL Vs RR, GL Vs DC, RR Vs DC]
+Point Table
+-------------------------------------------------------------
+Team: MI | Played: 4  | Won: 3 | Lost: 1 | Points: 7
+-------------------------------------------------------------
+Team: GT | Played: 4  | Won: 2 | Lost: 2 | Points: 6
+-------------------------------------------------------------
+Team: GL | Played: 4  | Won: 2 | Lost: 2 | Points: 6
+-------------------------------------------------------------
+Team: RR | Played: 4  | Won: 2 | Lost: 2 | Points: 6
+-------------------------------------------------------------
+Team: DC | Played: 4  | Won: 1 | Lost: 3 | Points: 5
+Win: 3 points,Lost: 1 points
